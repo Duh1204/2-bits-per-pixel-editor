@@ -1,0 +1,11 @@
+FPS = 60
+WIDTH = 400
+HEIGHT = 400
+ROWS = 8
+COLUMNS = 8
+TILESIZE = WIDTH / COLUMNS
+tile_positioned_color = {}
+COLOR0 = (255, 255, 255)
+COLOR1 = (170, 170, 170)
+COLOR2 = (85, 85, 85)
+COLOR3 = (0, 0, 0)
