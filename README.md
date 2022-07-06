@@ -5,10 +5,10 @@ Use the X key to load the contents of the txt file, it will convert the hex code
 
 The drawing grid:
 
-![draw](https://user-images.githubusercontent.com/96741532/177435529-2e2d8482-cdf9-4198-b2c5-1ab00001d094.png)
+![Python 3 7 0 Shell 05_07_2022 21_16_45](https://user-images.githubusercontent.com/96741532/177437113-8e61a025-f984-410c-aa51-4383efa23e83.png)
 
 The HEX code:
 
-![hextxt](https://user-images.githubusercontent.com/96741532/177435546-73f87bc2-5d36-4058-b607-fc67732f2755.png)
+![Python 3 7 0 Shell 05_07_2022 21_17_13](https://user-images.githubusercontent.com/96741532/177437133-c294d65b-9e52-460d-afb0-fc9a40e967e5.png)
 
 Have fun!
